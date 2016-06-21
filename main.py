@@ -1,3 +1,4 @@
 __author__ = 'ben'
-
-print('Hello Jorge!')
+import billboard
+chart = billboard.ChartData('hot-100')
+print(chart)
