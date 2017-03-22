@@ -1,5 +1,14 @@
-argparse==1.2.1
+appdirs==1.4.3
 beautifulsoup4==4.4.1
 billboard.py==2.0.2
+certifi==2017.1.23
+numpy==1.12.1
+packaging==16.8
+pandas==0.19.2
+pyparsing==2.2.0
+python-dateutil==2.6.0
+pytz==2016.10
 requests==2.10.0
-wsgiref==0.1.2
+six==1.10.0
+swagger-client==1.0.0
+urllib3==1.20
