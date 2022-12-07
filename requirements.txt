@@ -1,7 +1,7 @@
 appdirs==1.4.3
 beautifulsoup4==4.4.1
 billboard.py==2.0.2
-certifi==2017.1.23
+certifi==2022.12.7
 numpy==1.12.1
 packaging==16.8
 pandas==0.19.2
